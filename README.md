@@ -1,7 +1,7 @@
 Car-Rental-Website
 
 
-------------------------------------------Developed on XAMPP Local Host___________________________________________
+------------------------------------------Developed on XAMPP Local Host____________________________________________
 This is a simple car rental website.
 
 
